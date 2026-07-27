@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large Beal search datasets
+beal/big_triples
+beal/triples_below_1018_revised
