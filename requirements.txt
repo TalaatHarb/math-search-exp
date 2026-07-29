@@ -1,0 +1,8 @@
+# Core dependency for remote dataset fetches in the Beal experiment.
+requests
+
+# Optional accelerator used by the Beal scripts when available.
+gmpy2
+
+# Optional solver backend for the bounded Erdos-Straus SMT experiment.
+z3-solver
